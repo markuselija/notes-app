@@ -1,4 +1,4 @@
-# Lyst (lyst)
+# Lyst
 
 A Quasar Framework app
 
