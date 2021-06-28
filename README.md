@@ -29,4 +29,5 @@ See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js
 See https://lyst-b595f.web.app/#/
 
 ### ...or Install the Android version
-See main/lyst_v0.1.apk
+See lyst_v0.1.apk in the main branch
+
